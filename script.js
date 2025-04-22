@@ -12,7 +12,7 @@ document.getElementById('openBtn').addEventListener('click', () => {
   Eres una persona increíble y estoy muy agradecido de tenerte en mi vida. Espero que este día esté lleno de amor y felicidad para ti, porque te lo mereces.
   Aunque no pueda estar contigo en persona, quiero que sepas que siempre estás en mi corazón.
 
-  MMUUAAAAAA!!!!
+  MMUUAAAAAA!!!!!
   
   Con mucho amor y rez mez,  
   Tu chico guapo del movil.
